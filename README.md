@@ -3,7 +3,6 @@
 🔐 **Cybersecurity Analyst** | Certified CNSP, EHE, CAP  
 💻 Skilled in Vulnerability Assessment & Penetration Testing (VAPT), SIEM tools, Web & Network Security  
 🛠️ Tools: Splunk, Nessus, Wireshark, Burp Suite, Metasploit, Nmap, Kali Linux, OWASP
-![Burp Suite](https://github.com/Sachin-1402/Sachin-1402/image/pngwing.com.png)  
 
 
 🎓 **BTech in CSE (Cybersecurity Specialization)** - Parul University  
